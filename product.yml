@@ -17,7 +17,7 @@ spring:
     host: 112.124.17.97
     port: 5672
     username: hsy
-    password: han07080  
+    password: Han07080..  
   redis:
     database: 0
     host: 112.124.17.97
